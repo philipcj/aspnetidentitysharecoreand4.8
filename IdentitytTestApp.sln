@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreLoginApp", "AspNetCoreLoginApp\AspNetCoreLoginApp.csproj", "{795DF616-BC34-4ECB-892E-0F09EB8E8FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net48FrameworkApp", "Net48FrameworkApp\Net48FrameworkApp.csproj", "{D6110A4F-AB58-4851-8A75-7A38DEBFFA24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795DF616-BC34-4ECB-892E-0F09EB8E8FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795DF616-BC34-4ECB-892E-0F09EB8E8FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795DF616-BC34-4ECB-892E-0F09EB8E8FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795DF616-BC34-4ECB-892E-0F09EB8E8FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6110A4F-AB58-4851-8A75-7A38DEBFFA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6110A4F-AB58-4851-8A75-7A38DEBFFA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6110A4F-AB58-4851-8A75-7A38DEBFFA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6110A4F-AB58-4851-8A75-7A38DEBFFA24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06BAFA9-08EE-44EC-AE38-EDAE5F14A1D6}
+	EndGlobalSection
+EndGlobal
